@@ -7,9 +7,6 @@ int main()
     int r,m,n,o,p,q ;
     while(scanf("%s",str)!=EOF)
     {
-
-
-
         r=strcmp(str,e);
         m=strcmp(str,f);
         n=strcmp(str,s);
